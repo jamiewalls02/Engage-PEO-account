@@ -1,0 +1,8 @@
+{
+  "short_name": "EngagePEO",
+  "name": "Engage PEO Account",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0066cc",
+  "background_color": "#ffffff"
+}

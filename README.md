@@ -33,13 +33,13 @@ Engage PEO Account is built using React and modern web technologies, providing a
 ## Author
 
 ### Name
-Your A/C Name
+Jamie
 
 ### Email
-youraccount@example.com
+jamiewalls02@outlook.com
 
 ### Website
-https://engagepeoaccount.com
+[Engage PEO account](https://www.engagepeo.com.co)
 
 ### Author Bio
 
